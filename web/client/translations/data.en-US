@@ -261,7 +261,8 @@
             "snapshot": "This is the helptext for the Snapshot",
             "print": "This is the helptext for Print",
             "shapefile": "This is the helptext for the Shapefile",
-            "rasterstyler": "Define min value, max value, number of classes and color ramp and generate new classified raster layer"
+            "rasterstyler": "Define min value, max value, number of classes and color ramp and generate new classified raster layer",
+            "vectorstyler": "Add rule, and generate new styled vector layer"
         },
         "queryform": {
             "query": "Search",
@@ -410,6 +411,19 @@
             "pseudo": "PseudoColor",
             "multi": "Multi Band",
             "single": "Single Band"
+        },
+        "vectorstyler": {
+            "tooltip": "Create and edit vector layer style",
+            "paneltitle": "Vector Styler",
+            "layerlabel": "Layer",
+            "rulelabel": "Rules",
+            "namelabel": "Rule Name",
+            "symboltitle": "Symbol",
+            "labeltitle": "Label",
+            "conditiontitle": "Conditions",
+            "applybtn": "Apply Style",
+            "addrulebtn": "Add Rule",
+            "removerulebtn": "Remove Rule"
         }
     }
 }
